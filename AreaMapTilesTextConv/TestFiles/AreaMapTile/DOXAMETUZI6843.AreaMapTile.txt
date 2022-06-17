@@ -1,0 +1,11 @@
+﻿{
+    "UniqueId": "DOXAMETUZI6843.AreaMapTile",
+    "DisplayName": "Concrete Wall",
+    "Accessibility": "Inaccessible",
+    "LowObstacle": "false",
+    "SeeThrough": "false",
+    "MoveCost": "1",
+    "Destructible": "true",
+    "Health": "50",
+    "UniqueIdOfTileTypeWhenDestroyed": "TEBESUMUDA6932.AreaMapTile"
+}

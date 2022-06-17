@@ -1,0 +1,58 @@
+﻿{
+  "__hint": "DLD.GWP.Resource.TileTypeFile, Assembly-CSharp-firstpass",
+  "UniqueId": "LEFOYEVOHU9627.AreaMapTile",
+  "DisplayName": "Low Cover",
+  "ShortName": "",
+  "EditorNotes": null,
+  "ShortDescription": null,
+  "LongDescription": null,
+  "TechnicalDescription": null,
+  "ShowInGame": true,
+  "Enabled": true,
+  "EditorIconFilePath": "",
+  "Tags":
+    [],
+  "Accessibility": "Inaccessible",
+  "LowObstacle": false,
+  "SeeThrough": true,
+  "MoveCost": 2,
+  "Destructible": false,
+  "Health": 0,
+  "UidOfTileTypeWhenDestroyed": "COFFEEWALK8899.AreaMapTile",
+  "Effects":
+    {
+      "ModifiersKeys":
+        [
+          "DefenseRoll"
+        ],
+      "ModifiersValues":
+        [
+          {
+            "Label": "Add bonus/penalty to Defense roll",
+            "UniqueId": "SOSEMAKOKAKORAM5697.INTLord.TileEffect",
+            "Remarks": "",
+            "Color":
+              {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              },
+            "GuiPosition":
+              {
+                "x": 0,
+                "y": 0
+              },
+            "InheritsFrom": null,
+            "Orphans":
+              [],
+            "Children":
+              [
+                null
+              ]
+          }
+        ]
+    },
+  "EditorTextureName": "images.jpg",
+  "EditorIconName": "images.jpg"
+}

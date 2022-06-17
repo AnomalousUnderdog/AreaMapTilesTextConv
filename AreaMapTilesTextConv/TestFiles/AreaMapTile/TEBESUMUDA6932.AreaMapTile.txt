@@ -1,0 +1,12 @@
+﻿{
+    "UniqueId": "TEBESUMUDA6932.AreaMapTile",
+    "DisplayName": "Dirt",
+    "Accessibility": "Accessible",
+    "LowObstacle": "false",
+    "SeeThrough": "false",
+    "MoveCost": "1",
+    "Destructible": "false",
+    "Health": "0",
+    "UniqueIdOfTileTypeWhenDestroyed": "COFFEEWALK8899.AreaMapTile",
+    "EditorIconName": "TileIcon-Dirt.png"
+}

@@ -1,0 +1,11 @@
+﻿{
+    "UniqueId": "SAVUSETUZI8235.AreaMapTile",
+    "DisplayName": "Wooden Fence",
+    "Accessibility": "Inaccessible",
+    "LowObstacle": "true",
+    "SeeThrough": "true",
+    "MoveCost": "3",
+    "Destructible": "true",
+    "Health": "25",
+    "UniqueIdOfTileTypeWhenDestroyed": "COFFEEWALK8899.AreaMapTile"
+}

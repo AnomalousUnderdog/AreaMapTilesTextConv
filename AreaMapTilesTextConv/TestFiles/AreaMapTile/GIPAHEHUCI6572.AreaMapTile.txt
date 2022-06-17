@@ -1,0 +1,31 @@
+﻿{
+  "__hint": "DLD.GWP.Resource.TileTypeFile, Assembly-CSharp",
+  "UniqueId": "GIPAHEHUCI6572.AreaMapTile",
+  "DisplayName": "Low Vehicle",
+  "ShortName": "",
+  "EditorNotes": null,
+  "ShortDescription": null,
+  "LongDescription": null,
+  "TechnicalDescription": null,
+  "ShowInGame": true,
+  "Enabled": true,
+  "EditorIconFilePath": "",
+  "Tags": 
+    [],
+  "Accessibility": "Accessible",
+  "LowObstacle": false,
+  "SeeThrough": false,
+  "MoveCost": 1,
+  "Destructible": false,
+  "Health": 0,
+  "UidOfTileTypeWhenDestroyed": "COFFEEWALK8899.AreaMapTile",
+  "Effects": 
+    {
+      "ModifiersKeys": 
+        [],
+      "ModifiersValues": 
+        []
+    },
+  "EditorTextureName": "",
+  "EditorIconName": ""
+}

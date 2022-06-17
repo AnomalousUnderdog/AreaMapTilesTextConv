@@ -1,0 +1,57 @@
+﻿{
+  "__hint": "DLD.GWP.Resource.TileTypeFile, Assembly-CSharp",
+  "UniqueId": "YAFIXAPEJA9634.AreaMapTile",
+  "DisplayName": "Tent",
+  "ShortName": "",
+  "EditorNotes": null,
+  "ShortDescription": null,
+  "LongDescription": null,
+  "TechnicalDescription": null,
+  "ShowInGame": true,
+  "EditorIconFilePath": "",
+  "Tags": 
+    [],
+  "Accessibility": "Inaccessible",
+  "LowObstacle": false,
+  "SeeThrough": true,
+  "MoveCost": 1,
+  "Destructible": false,
+  "Health": 0,
+  "UidOfTileTypeWhenDestroyed": "COFFEEWALK8899.AreaMapTile",
+  "Effects": 
+    {
+      "ModifiersKeys": 
+        [
+          "DefenseRoll"
+        ],
+      "ModifiersValues": 
+        [
+          {
+            "Label": "Add bonus/penalty to Defense roll",
+            "UniqueId": "DEYIVUKUCIVIDIN6878.INTLord.TileEffect",
+            "Remarks": "",
+            "Color": 
+              {
+                "r": 0.891890466,
+                "g": 0.9019608,
+                "b": 0.0459823,
+                "a": 1
+              },
+            "GuiPosition": 
+              {
+                "x": 0,
+                "y": 0
+              },
+            "InheritsFrom": null,
+            "Orphans": 
+              [],
+            "Children": 
+              [
+                null
+              ]
+          }
+        ]
+    },
+  "EditorTextureName": "",
+  "EditorIconName": ""
+}

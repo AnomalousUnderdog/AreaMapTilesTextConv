@@ -54,6 +54,84 @@
       <Content Include="config.json">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </Content>
+      <Content Include="TestFiles\AreaMapTile\BUPIVEREKU4345.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\CETUPAMIDO4364.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\CIZIFODAPU8786.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\DOXAMETUZI6843.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\GIPAHEHUCI6572.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\GOZIBEGIRE9445.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\JAZALUHAZE4228.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\KASOMEPIZE3828.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\LEFOYEVOHU9627.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\MISAPUGUBE8845.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\NIBOLUSIJO3949.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\PIJISOSINA8976.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\PIKIMAVOBE7864.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\SAVUSETUZI8235.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\TEBESUMUDA6932.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\VEGADAHEVU7443.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\VIPEMOFOCA5463.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\WEZUJUSEZU9567.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\XIHEYUBIJU4285.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\YAFIRIPULE4933.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\YAFIXAPEJA9634.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\AreaMapTile\ZUTADOMIBE5773.AreaMapTile.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\Chosen One's Home.AreaMap.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\Chosen One's Home.AreaMapTiles.bytes">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\Highway.AreaMap.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="TestFiles\Highway.AreaMapTiles.bytes">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

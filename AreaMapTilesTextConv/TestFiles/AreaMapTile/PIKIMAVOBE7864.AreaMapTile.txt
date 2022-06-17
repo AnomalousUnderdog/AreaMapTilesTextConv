@@ -1,0 +1,31 @@
+﻿{
+  "__hint": "DLD.GWP.Resource.TileTypeFile, Assembly-CSharp",
+  "UniqueId": "PIKIMAVOBE7864.AreaMapTile",
+  "DisplayName": "Low Obstacle",
+  "ShortName": "",
+  "EditorNotes": null,
+  "ShortDescription": null,
+  "LongDescription": null,
+  "TechnicalDescription": null,
+  "ShowInGame": true,
+  "Enabled": true,
+  "EditorIconFilePath": "",
+  "Tags": 
+    [],
+  "Accessibility": "Inaccessible",
+  "LowObstacle": true,
+  "SeeThrough": true,
+  "MoveCost": 2,
+  "Destructible": false,
+  "Health": 0,
+  "UidOfTileTypeWhenDestroyed": "COFFEEWALK8899.AreaMapTile",
+  "Effects": 
+    {
+      "ModifiersKeys": 
+        [],
+      "ModifiersValues": 
+        []
+    },
+  "EditorTextureName": "",
+  "EditorIconName": ""
+}

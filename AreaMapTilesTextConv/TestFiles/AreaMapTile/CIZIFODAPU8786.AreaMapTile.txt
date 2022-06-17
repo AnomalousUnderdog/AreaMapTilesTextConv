@@ -1,0 +1,30 @@
+﻿{
+  "__hint": "DLD.GWP.Resource.TileTypeFile, Assembly-CSharp",
+  "UniqueId": "CIZIFODAPU8786.AreaMapTile",
+  "DisplayName": "Low Rock",
+  "ShortName": "",
+  "EditorNotes": null,
+  "ShortDescription": null,
+  "LongDescription": null,
+  "TechnicalDescription": null,
+  "ShowInGame": true,
+  "EditorIconFilePath": "",
+  "Tags": 
+    [],
+  "Accessibility": "Inaccessible",
+  "LowObstacle": true,
+  "SeeThrough": true,
+  "MoveCost": 1,
+  "Destructible": false,
+  "Health": 0,
+  "UidOfTileTypeWhenDestroyed": "COFFEEWALK8899.AreaMapTile",
+  "Effects": 
+    {
+      "ModifiersKeys": 
+        [],
+      "ModifiersValues": 
+        []
+    },
+  "EditorTextureName": "",
+  "EditorIconName": ""
+}

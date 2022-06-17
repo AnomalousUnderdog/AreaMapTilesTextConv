@@ -1,0 +1,127 @@
+﻿{
+  "__hint": "DLD.GWP.Map.AreaMap, Assembly-CSharp-firstpass",
+  "DisplayName": "Chosen One's Home",
+  "Grid": 
+    {
+      "Width": 52,
+      "Height": 47,
+      "LeftEdge": -1,
+      "BottomEdge": 0
+    },
+  "BehaveAsRegionScapeMap": true,
+  "ExitPoints": 
+    [
+      {
+        "UniqueID": "MAHO4622.ExitPoint",
+        "EditorName": "",
+        "InGameLabel": "Leave Chosens",
+        "ExitMessage": null,
+        "Color": 
+          {
+            "r": 242,
+            "g": 74,
+            "b": 77,
+            "a": 255
+          },
+        "Visible": true
+      },
+      {
+        "UniqueID": "GUBO2746.ExitPoint",
+        "EditorName": "",
+        "InGameLabel": "",
+        "ExitMessage": null,
+        "Color": 
+          {
+            "r": 84,
+            "g": 202,
+            "b": 222,
+            "a": 255
+          },
+        "Visible": true
+      }
+    ],
+  "StartingPositions": 
+    [
+      {
+        "UniqueID": "ZICO2933.StartingPosition",
+        "Name": "Entry to Chosen's Home",
+        "Color": 
+          {
+            "r": 36,
+            "g": 249,
+            "b": 157,
+            "a": 255
+          },
+        "Visible": true,
+        "AutoPlaceCamera": true,
+        "CustomCameraPosition": 
+          {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+        "SpecifyCameraRotation": true,
+        "CameraRotation": 
+          {
+            "x": 0,
+            "y": 40
+          },
+        "SpecifyCameraZoom": false,
+        "CameraZoom": 10
+      },
+      {
+        "UniqueID": "MOWO3465.StartingPosition",
+        "Name": "",
+        "Color": 
+          {
+            "r": 27,
+            "g": 112,
+            "b": 132,
+            "a": 255
+          },
+        "Visible": true,
+        "AutoPlaceCamera": true,
+        "CustomCameraPosition": 
+          {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+        "SpecifyCameraRotation": true,
+        "CameraRotation": 
+          {
+            "x": 0,
+            "y": 40
+          },
+        "SpecifyCameraZoom": false,
+        "CameraZoom": 10
+      },
+      {
+        "UniqueID": "HEZA3887.StartingPosition",
+        "Name": "",
+        "Color": 
+          {
+            "r": 143,
+            "g": 18,
+            "b": 205,
+            "a": 255
+          },
+        "Visible": true,
+        "AutoPlaceCamera": true,
+        "CustomCameraPosition": 
+          {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+        "SpecifyCameraRotation": true,
+        "CameraRotation": 
+          {
+            "x": 0,
+            "y": 40
+          },
+        "SpecifyCameraZoom": false,
+        "CameraZoom": 10
+      }
+    ]
+}
