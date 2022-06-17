@@ -19,6 +19,10 @@ namespace AreaMapTilesTextConv
 
 			if (args.Length == 7)
 			{
+				// https://git-scm.com/docs/diff-config#Documentation/diff-config.txt-diffltdrivergtcommand
+				// https://git-scm.com/docs/gitattributes#_defining_an_external_diff_driver
+				// https://git-scm.com/docs/git#Documentation/git.txt-codeGITEXTERNALDIFFcode
+				//
 				// 0: path
 				// 1: old-file
 				// 2: old-hex
@@ -85,6 +89,8 @@ namespace AreaMapTilesTextConv
 			}
 			else
 			{
+				Console.WriteLine(args[0]);
+
 				string filename = args[0];
 				return LoadSingleFile(Console.Out, filename);
 			}
